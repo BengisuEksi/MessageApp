@@ -1,0 +1,14 @@
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\bin\Debug\MessageApp.exe.config
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\bin\Debug\MessageApp.exe
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\bin\Debug\MessageApp.pdb
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\obj\Debug\MessageApp.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\obj\Debug\MessageApp.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\obj\Debug\MessageApp.exe
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\obj\Debug\MessageApp.pdb
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\obj\Debug\MessageApp.AllMessages.resources
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\obj\Debug\MessageApp.NewEntry.resources
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\obj\Debug\MessageApp.MyAccount.resources
+C:\Users\bengi\Desktop\C# Projects\MessageApp\MessageApp\obj\Debug\MessageApp.NewMessage.resources
